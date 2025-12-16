@@ -106,7 +106,7 @@ export const projects: Project[] = [
     tags: ["React", "Node.js", "MongoDB", "Express", "Stripe", "AWS"],
     imageUrl:
       "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-    color: "secondary",
+    color: "primary",
     details: {
       overview:
         "Bloom is a modern e-commerce platform specializing in plants and gardening supplies. I led the development of their online store, focusing on creating a seamless shopping experience with beautiful product displays and an intuitive checkout process.",
@@ -172,7 +172,7 @@ export const projects: Project[] = [
     tags: ["React", "D3.js", "Styled Components", "TypeScript", "GraphQL"],
     imageUrl:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-    color: "accent",
+    color: "primary",
     details: {
       overview:
         "Pulse is an analytics dashboard for enterprise clients that visualizes complex data in an intuitive way. I designed and developed the frontend interface, focusing on creating clear data visualizations and a customizable user experience.",
@@ -308,7 +308,7 @@ export const projects: Project[] = [
     tags: ["HTML5", "CSS3", "JavaScript", "GSAP", "WordPress", "PHP"],
     imageUrl:
       "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-    color: "secondary",
+    color: "primary",
     details: {
       overview:
         "A dynamic website for a creative agency showcasing their portfolio and services. I designed and developed a unique web experience with advanced animations and interactive elements to reflect the agency's innovative approach.",
@@ -374,7 +374,7 @@ export const projects: Project[] = [
     tags: ["React Native", "Node.js", "MongoDB", "Google Maps API", "AWS"],
     imageUrl:
       "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-    color: "accent",
+    color: "primary",
     details: {
       overview:
         "Voyage is a travel companion app that helps users discover, plan and document their trips. I led the UX design and frontend development, creating an immersive experience that inspires wanderlust while providing practical travel tools.",

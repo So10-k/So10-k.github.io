@@ -93,7 +93,7 @@ export const projects: Project[] = [
           url: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80",
           alt: "Team collaboration",
           caption:
-            "Oragnize Easily: Our app will help you manage your schedule with ease.",
+            "Organize Easily: Our app will help you manage your schedule with ease.",
         },
       ],
     },

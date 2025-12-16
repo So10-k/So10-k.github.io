@@ -13,41 +13,41 @@
   --card-foreground: 20 14.3% 4.1%;
   --border: 20 5.9% 90%;
   --input: 20 5.9% 90%;
-  --primary: 207 90% 54%;
-  --primary-foreground: 211 100% 99%;
-  --secondary: 261 80% 57%; /* #8338ec */
-  --secondary-foreground: 211 100% 99%;
-  --accent: 338 100% 50%; /* #ff006e */
-  --accent-foreground: 211 100% 99%;
+  --primary: 0 100% 45%; /* Greenwich Cardinal Red */
+  --primary-foreground: 0 0% 100%;
+  --secondary: 0 0% 10%; /* Greenwich Black */
+  --secondary-foreground: 0 0% 100%;
+  --accent: 0 85% 40%; /* Darker Cardinal Red */
+  --accent-foreground: 0 0% 100%;
   --destructive: 0 84.2% 60.2%;
   --destructive-foreground: 60 9.1% 97.8%;
-  --ring: 20 14.3% 4.1%;
+  --ring: 0 100% 45%;
   --radius: 0.5rem;
-  --dark: 236 22% 23%; /* #2b2d42 */
-  --neutral: 218 16% 62%; /* #8d99ae */
-  --light: 200 6% 95%; /* #edf2f4 */
+  --dark: 0 0% 10%; /* Greenwich Black */
+  --neutral: 0 0% 50%; /* Neutral Gray */
+  --light: 0 0% 95%; /* Light Gray */
 }
 
 .dark {
-  --background: 240 10% 3.9%;
+  --background: 0 0% 10%;
   --foreground: 0 0% 98%;
-  --muted: 240 3.7% 15.9%;
-  --muted-foreground: 240 5% 64.9%;
-  --popover: 240 10% 3.9%;
+  --muted: 0 0% 20%;
+  --muted-foreground: 0 0% 64.9%;
+  --popover: 0 0% 10%;
   --popover-foreground: 0 0% 98%;
-  --card: 240 10% 3.9%;
+  --card: 0 0% 10%;
   --card-foreground: 0 0% 98%;
-  --border: 240 3.7% 15.9%;
-  --input: 240 3.7% 15.9%;
-  --primary: 207 90% 54%;
-  --primary-foreground: 211 100% 99%;
-  --secondary: 261 80% 57%;
-  --secondary-foreground: 211 100% 99%;
-  --accent: 338 100% 50%;
-  --accent-foreground: 211 100% 99%;
+  --border: 0 0% 20%;
+  --input: 0 0% 20%;
+  --primary: 0 100% 45%; /* Greenwich Cardinal Red */
+  --primary-foreground: 0 0% 100%;
+  --secondary: 0 0% 15%; /* Lighter Black for contrast */
+  --secondary-foreground: 0 0% 100%;
+  --accent: 0 85% 40%; /* Darker Cardinal Red */
+  --accent-foreground: 0 0% 100%;
   --destructive: 0 62.8% 30.6%;
   --destructive-foreground: 0 0% 98%;
-  --ring: 240 4.9% 83.9%;
+  --ring: 0 100% 45%;
   --radius: 0.5rem;
 }
 
